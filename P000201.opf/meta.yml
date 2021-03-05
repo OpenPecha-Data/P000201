@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000201
+initial_creation_type: ebook
+source_metadata:
   title: ཚིག་བདུན་དང་འབྲེལ་བའི་བླ་མའི་རྣལ་འབྱོར། །
   authors:
   - མཛད་པ་པོ། མི་ཕམ་རྒྱ་མཚོ།
-  sku: SHE-007
   layers:
   - book_title
   - author
   - chapter_title
   - tsawa
   - sabche
+  id: SHE-007
 web_metadata:
   title:
     en: A Guru Yoga for the Seven-Line Supplication to Guru Rinpoche
